@@ -1,3 +1,5 @@
+The spec discussion is currently at https://github.com/alexanderGugel/ied/issues/182 and https://github.com/alexanderGugel/ied/wiki/Spec
+
 # package-store-spec
 
 ## Store directory structure
